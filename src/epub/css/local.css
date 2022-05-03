@@ -1,2 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#some-thoughts-concerning-education > section{
+	margin-top: 20vh;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
