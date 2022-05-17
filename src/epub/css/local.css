@@ -9,3 +9,13 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+#dedication > p:first-of-type{
+	text-align: center;
+	margin: 3em 0;
+}
+
+#dedication > p:nth-of-type(2),
+#dedication > p:nth-of-type(3){
+	text-indent: 0;
+}
