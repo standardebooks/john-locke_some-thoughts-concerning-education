@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-locke/some-thoughts-concerning-education</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-27T20:21:45Z</dc:date>
+		<meta property="dcterms:modified">2022-06-27T20:21:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,15 +32,19 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">John Locke outlines his philosophy of childhood education.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-locke"&gt;John Locke&lt;/a&gt;, the English philosopher considered to be the most influential of Enlightenment thinkers, never married or had children. Despite this, in 1684 his friends Mary and Edward Clarke asked him for advice on how to raise their son. In response, Locke composed a series of letters to them that outlined his philosophy of education.&lt;/p&gt;
+			&lt;p&gt;In 1693, encouraged by the Clarkes and by his friend William Molyneux, he compiled the letters into a single treatise. This treatise, &lt;i&gt;Some Thoughts Concerning Education&lt;/i&gt;, went on to become the most influential works in educational philosophy in England for over a century, and was so influential on society as a whole that some critics consider it to be equally as important as his &lt;i&gt;Essay Concerning Human Understanding&lt;/i&gt;. The &lt;i&gt;Thoughts&lt;/i&gt; went through at least fifty-three editions in the eighteenth century alone, and inspired a movement for childhood education then-unheard of in Europe, ultimately resulting in the popularization of Victorian public schools.&lt;/p&gt;
+			&lt;p&gt;In the &lt;i&gt;Thoughts&lt;/i&gt;, Locke advocates a practical education for a child consisting of exposure to foreign languages, gentle introductions to topics like reading and mathematics through game-like approaches, physical training and exercise, and rhetoric, all delivered by a competent and dedicated tutor. He placed the instillation of a sense of virtue as one of the most important parts of a complete education.&lt;/p&gt;
+			&lt;p&gt;Education was to be administered through gentle encouragement focused on the child’s natural interests, and tempered with both shame and a feeling of awe for the parent. He argues that much of a child’s social education is received at a very young age from their peers and the society around them; thus, controlling the societal influences around the child is of paramount importance. All of this was starkly opposed to the then-common theory of education through rote repetition, enforced with beatings.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Some Thoughts Concerning Education&lt;/i&gt;’s influence continues to the modern day, where its principles and techniques are embraced by Montessori-style education, and even television shows like &lt;i&gt;Sesame Street&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education</dc:source>
 		<dc:source>https://books.google.com/books?id=sXw7pa7Fd_QC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">78084</meta>
+		<meta property="se:reading-ease.flesch">46.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-locke_some-thoughts-concerning-education</meta>
 		<dc:creator id="author">John Locke</dc:creator>
