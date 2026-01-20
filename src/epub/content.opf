@@ -45,7 +45,7 @@
 		<dc:source>https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education</dc:source>
 		<dc:source>https://books.google.com/books?id=sXw7pa7Fd_QC</dc:source>
 		<meta property="se:production-notes">The ToC is an edge case that `se build-toc` can't handle; we have to insert the subheader for the actual main body manually.</meta>
-		<meta property="se:word-count">78084</meta>
+		<meta property="se:word-count">77901</meta>
 		<meta property="se:reading-ease.flesch">46.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-locke_some-thoughts-concerning-education</meta>
