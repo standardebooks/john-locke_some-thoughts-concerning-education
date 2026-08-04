@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85040989</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>John Locke outlines his philosophy of childhood education.</dc:abstract>
+		<meta property="schema:abstract">John Locke outlines his philosophy of childhood education.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-locke"&gt;John Locke&lt;/a&gt;, the English philosopher considered to be the most influential of Enlightenment thinkers, never married or had children. Despite this, in 1684 his friends Mary and Edward Clarke asked him for advice on how to raise their son. In response, Locke composed a series of letters to them that outlined his philosophy of education.&lt;/p&gt;
 			&lt;p&gt;In 1693, encouraged by the Clarkes and by his friend William Molyneux, he compiled the letters into a single treatise. This treatise, &lt;i&gt;Some Thoughts Concerning Education&lt;/i&gt;, went on to become the most influential works in educational philosophy in England for over a century, and was so influential on society as a whole that some critics consider it to be equally as important as his &lt;i&gt;Essay Concerning Human Understanding&lt;/i&gt;. The &lt;i&gt;Thoughts&lt;/i&gt; went through at least fifty-three editions in the eighteenth century alone, and inspired a movement for childhood education then-unheard of in Europe, ultimately resulting in the popularization of Victorian public schools.&lt;/p&gt;
